@@ -499,6 +499,9 @@
   .pl-5{
     padding-left: 5rem;
 }
+.pl-6{
+  padding-left: 6rem;
+}
 .fs-half{
     font-size: 1.5rem;
 }
@@ -509,6 +512,10 @@
 .pt-1{
     padding-top:1rem;
 }
+.pad-top-2{
+    padding-top: 2rem;
+}
+
 .pad-top-3{
     padding-top: 3rem;
 }
@@ -519,9 +526,140 @@
 .pad-bottom-7{
     padding-bottom: 7rem;
 }
+.but-style{
+    padding: 0.7rem 3rem;
+    margin: 2rem 0;
+    border: 0.1px solid transparent;
+    font-family: inherit;
+    font-size: 14px;
+    font-style: normal;
+}
 .bold-500{
     font-weight: 500;
 }
 .fs-4{
     font-size: 4rem;
 }
+
+.button {
+    padding: 10px 20px;
+}
+.radius-5 {
+    border-radius: 5px;
+}
+.bg-white{
+    background:  #ffffff;
+}
+.black-text{
+    color: #000000;
+}
+.no-border {
+    border: none;
+}
+.no-outline {
+    outline: none;
+}
+.faint{
+    opacity: 0.6;
+}
+.wrap {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+.wrap-md-1 {
+    -ms-flex: 0 0 8.333333%;
+    flex: 0 0 8.333333%;
+    max-width: 8.333333%;
+}
+.wrap-md-2 {
+    -ms-flex: 0 0 16.666667%;
+    flex: 0 0 16.666667%;
+    max-width: 16.666667%;
+}
+.wrap-md-3 {
+    -ms-flex: 0 0 25%;
+    flex: 0 0 25%;
+    max-width: 25%;
+}
+.wrap-md-4 {
+    -ms-flex: 0 0 33.333333%;
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+}
+.wrap-md-5 {
+    -ms-flex: 0 0 41.666667%;
+    flex: 0 0 41.666667%;
+    max-width: 41.666667%;
+}
+.wrap-md-6 {
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+}
+.wrap-md-7 {
+    -ms-flex: 0 0 58.333333%;
+    flex: 0 0 58.333333%;
+    max-width: 58.333333%;
+}
+.wrap-md-8 {
+    -ms-flex: 0 0 66.666667%;
+    flex: 0 0 66.666667%;
+    max-width: 66.666667%;
+}
+.wrap-md-9 {
+    -ms-flex: 0 0 75%;
+    flex: 0 0 75%;
+    max-width: 75%;
+}
+.wrap-md-10 {
+    -ms-flex: 0 0 83.333333%;
+    flex: 0 0 83.333333%;
+    max-width: 83.333333%;
+}
+.wrap-md-11 {
+    -ms-flex: 0 0 91.666667%;
+    flex: 0 0 91.666667%;
+    max-width: 91.666667%;
+}
+.wrap-md-12 {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+.p-l-r{
+    padding-right : 80px;
+    padding-left : 80px;
+}
+h3 {
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.fs-32{
+    font-size: 32px;
+}
+.bord-box{
+    border-style: solid;
+    border-collapse: collapse;
+    border: 1px solid rgb(25, 124, 70);
+}
+
+table, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding-left: 20px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    font-weight: 700;
+    font-size: 1.5rem;
+   
+  }
+  table{
+    width: 100%;
+  }
